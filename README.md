@@ -1,6 +1,6 @@
 # FuelPHPのモジュール接続サンプル
 
-[FuelPHP Advent Calendar 2013](http://atnd.org/events/45096) 16日目の記事「[FuelPHPのmoduleを使いこなす]()」で利用したサンプルコードです。
+[FuelPHP Advent Calendar 2013](http://atnd.org/events/45096) 16日目の記事「[FuelPHPのmoduleを使いこなす](http://qiita.com/hosopy/items/0428be74f1c3868c55ba)」で利用したサンプルコードです。
 
 ## 動作確認
 
