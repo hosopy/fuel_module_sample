@@ -7,10 +7,11 @@
 * php 5.4以上を前提
 
 ```php
-$ git clone git@github.com:hosopy/fuel_module_sample.git
+$ git clone https://github.com/hosopy/fuel_module_sample.git
 $ cd fuel_module_sample
 $ git submodule init
 $ git submodule update
+$ php composer.phar update
 $ php oil server
 ```
 
